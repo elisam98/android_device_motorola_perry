@@ -2,3 +2,6 @@
 
 # Display
 ro.sf.lcd_density=320
+
+# Radio
+ro.radio.imei.sv=6

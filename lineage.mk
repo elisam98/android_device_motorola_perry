@@ -25,9 +25,7 @@ PRODUCT_NAME := lineage_perry
 PRODUCT_BRAND := motorola
 PRODUCT_MANUFACTURER := motorola
 
-PRODUCT_SYSTEM_PROPERTY_BLACKLIST := ro.product.model
-
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    BUILD_FINGERPRINT=motorola/perry/perry:7.1.1/NPNS26.118-22-1/1:user/release-keys \
+    BUILD_FINGERPRINT="motorola/perry/perry:7.1.1/NPNS26.118-22-1/1:user/release-keys" \
     PRIVATE_BUILD_DESC="perry-user 7.1.1 NPNS26.118-22-1 1 release-keys" \
     PRODUCT_NAME="Moto E4"
