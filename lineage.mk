@@ -14,7 +14,9 @@
 # limitations under the License.
 
 $(call inherit-product, device/motorola/perry/full_perry.mk)
+$(call inherit-product, vendor/cm/config/common_full_phone.mk)
 
+# Boot animation
 # Boot animation
 TARGET_SCREEN_WIDTH := 720
 TARGET_SCREEN_HEIGHT := 1280
@@ -30,4 +32,6 @@ PRODUCT_SYSTEM_PROPERTY_BLACKLIST := ro.product.model
 PRODUCT_BUILD_PROP_OVERRIDES += \
     BUILD_FINGERPRINT=motorola/perry/perry:7.1.1/NPNS26.118-22-1/1:user/release-keys \
     PRIVATE_BUILD_DESC="perry-user 7.1.1 NPNS26.118-22-1 1 release-keys" \
-    PRODUCT_NAME="Moto E4"
+    PRODUCT_MODEL="Moto E4" \
+    PRODUCT_NAME="perry"
+    
