@@ -1,13 +1,13 @@
 Unified Device Tree for Moto E4 Qualcomm (perry)
 ================================================
 
-The Motorola Moto E4 (codenamed _"perry"_ and _"sperry"_) is a low-range smartphone from
+The Motorola Moto E4 (codenamed _"perry"_) is a low-range smartphone from
 Motorola Mobility. It was announced in June 2017.
 
 Basic   | Spec Sheet
 -------:|:-------------------------
 CPU     | Quad-core 1.4 GHz Cortex-A53
-Chipset | Qualcomm MSM8917/MSM8920(sperry) Snapdragon 425/427(sperry)
+Chipset | Qualcomm MSM8917 Snapdragon 425
 GPU     | Adreno 308
 Memory  | 2 GB RAM
 Shipped Android Version | 7.1.1
