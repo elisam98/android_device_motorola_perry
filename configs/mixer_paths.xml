@@ -837,8 +837,8 @@
     <path name="speaker-and-headphones">
         <path name="speaker" />
         <path name="headphones" />
-        <ctl name="RX1 Digital Volume" value="76" />
-        <ctl name="RX2 Digital Volume" value="76" />
+        <ctl name="RX1 Digital Volume" value="106" />
+        <ctl name="RX2 Digital Volume" value="106" />
     </path>
 
     <path name="afe-proxy">
