@@ -1,0 +1,2 @@
+allow mmi_boot system_file:file execute_no_trans;
+

@@ -1,0 +1,2 @@
+allow system_server rild:binder transfer;
+allow system_server rild:unix_dgram_socket sendto;

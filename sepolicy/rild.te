@@ -1,0 +1,2 @@
+allow rild system_server:binder call;
+
